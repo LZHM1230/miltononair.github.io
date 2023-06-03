@@ -30,40 +30,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-.carousel-container{
-	width: 60%;
-	margin: auto;
-	overflow: hidden;
-}
-
-.carousel-slide{
-	display: flex;
-	height: 600px;
-	width: auto;
-}
-
-#prevBtn{
-	position: absolute;
-	top: 50%;
-	z-index: 10;
-	left: 5%;
-	font-size: 30px;
-	color: white;
-	cursor: pointer;
-}
-
-#nextBtn{
-	position: absolute;
-	top: 50%;
-	z-index: 10;
-	right: 5%;
-	font-size: 30px;
-	color: white;
-	cursor: pointer;
-}
-		
-		
-
 body {
 	line-height: 1;
 }
