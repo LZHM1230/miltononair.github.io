@@ -1530,6 +1530,7 @@ button {
 		opacity: 1;
 		overflow: hidden;
 		position: relative;
+		width: 400px;
 	}
 
 
