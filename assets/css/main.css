@@ -30,6 +30,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+carousel-item {
+	height: 400px;
+	width: auto;
+}
+
 body {
 	line-height: 1;
 }
