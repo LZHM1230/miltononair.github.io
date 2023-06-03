@@ -1521,6 +1521,8 @@ button {
 	z-index: 3;
 }
 	#main .thumb {
+		width: 400px;
+		height: auto;
 		-moz-transition: opacity 1.25s ease-in-out;
 		-webkit-transition: opacity 1.25s ease-in-out;
 		-ms-transition: opacity 1.25s ease-in-out;
@@ -1528,8 +1530,6 @@ button {
 		pointer-events: auto;
 		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		opacity: 1;
-		width: 400px;
-		height: auto;
 	}
 
 
