@@ -38,8 +38,8 @@ footer, header, hgroup, menu, nav, section {
 
 .carousel-slide{
 	display: flex;
-	width: 80%;
-	height: auto;
+	height: 600px;
+	width: auto;
 }
 
 #prevBtn{
